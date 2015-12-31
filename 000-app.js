@@ -1,4 +1,4 @@
-//Hello World Module and Controller
+//Hello World Module and Controller sample
 var app = angular.module("java4sApp", []);
  
 app.controller("HelloWorldController", function($scope) {
